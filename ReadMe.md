@@ -10,9 +10,9 @@ Sue  		 18 		 5
 
 
 
-	It then computes the customer's departure time along with Bank 
+	<p>It then computes the customer's departure time along with Bank 
 Simulation Statistics that displays the number of customers taken care 
-of and average waiting time.
+of and average waiting time.</p>
 
 
  
