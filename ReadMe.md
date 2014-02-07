@@ -10,9 +10,9 @@ Sue  		 18 		 5
 
 
 
-	<p>It then computes the customer's departure time along with Bank 
+	It then computes the customer's departure time along with Bank 
 Simulation Statistics that displays the number of customers taken care 
-of and average waiting time.</p>
+of and average waiting time.
 
 
  
@@ -39,6 +39,7 @@ interface and a List that holds Events.
 
 Simulation Results:
  ------------------------------------------
+'''
 luis@ubpc:~/Desktop/Project$ java BankSimulation 
 Arrival SimTime: 10 Customer: [ Joe, 10, 6, 0]
 Departure SimTime: 16 Customer: [ Joe, 10, 6, 16]
@@ -71,4 +72,4 @@ Min Wait Time: 0
 Max Wait Time: 18
 Maximum Customer Queue Size: 5
 Simulation is done
-
+'''
