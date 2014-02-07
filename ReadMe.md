@@ -9,11 +9,13 @@ Joe  		 10   		 6
 Sue  		 18 		 5
 
 
+```
 
 	It then computes the customer's departure time along with Bank 
 Simulation Statistics that displays the number of customers taken care 
 of and average waiting time.
 
+```
 
  
 The Customer Class conaints the following UML Diagram
